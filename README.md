@@ -6,7 +6,7 @@ This project implements a basic file system with journaling in Rust. It supports
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/JeremiahHerring/simple_file_system.git
+   git clone https://github.com/JeremiahHerring/simple_file_system
    cd simple_file_system
    ```
 
